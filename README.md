@@ -11,7 +11,7 @@ b) A powerful and comprehensive user-space tool: `perf`, which leverages `perf_e
   
 In this small tutorial, I will give a whirlwind tool of the user-space `perf` utility.  
 
-
+------------------------
 # Linux perf 小小书
 当我们在讨论`Linux`里的`perf`的时候，实际上是两个事情：
 
