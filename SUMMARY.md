@@ -14,3 +14,20 @@
 * [Use ftrace](posts/use-ftrace.md)
 * [Show performance difference](posts/show-performance-difference.md)
 * [The end](posts/the-end.md)
+
+* [安装和运行perf](posts/install-and-run-perf.md)
+* [什么是分析]()
+* [使用perf分析程序的例子]
+* [分析的目的]
+* [如何指定监控事件]
+* [什么是打滑]
+* [计数事件]
+* [记录每个线程的事件计数]
+* [配置文件内存访问]
+* [检查缓存错误共享]
+* [实时分析系统]
+* [跟踪系统调用命令]
+* [测量调度程序延迟]
+* [使用ftrace]
+* [显示性能差异]
+* [结束]
