@@ -14,7 +14,7 @@
 * [Use ftrace](posts/use-ftrace.md)
 * [Show performance difference](posts/show-performance-difference.md)
 * [The end](posts/the-end.md)
-
+---------------------------------------------
 * [安装和运行perf](posts/install-and-run-perf.md)
 * [什么是分析]()
 * [使用perf分析程序的例子]
